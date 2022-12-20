@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\Polimorfizm-Abstraction\Poliformizm-Abstraction\Poliformizm-Abstraction\bin\Debug\net6.0\Poliformizm-Abstraction.exe
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\Polimorfizm-Abstraction\Poliformizm-Abstraction\Poliformizm-Abstraction\bin\Debug\net6.0\Poliformizm-Abstraction.deps.json
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\Polimorfizm-Abstraction\Poliformizm-Abstraction\Poliformizm-Abstraction\bin\Debug\net6.0\Poliformizm-Abstraction.runtimeconfig.json
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\Polimorfizm-Abstraction\Poliformizm-Abstraction\Poliformizm-Abstraction\bin\Debug\net6.0\Poliformizm-Abstraction.dll
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\Polimorfizm-Abstraction\Poliformizm-Abstraction\Poliformizm-Abstraction\bin\Debug\net6.0\Poliformizm-Abstraction.pdb
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\Polimorfizm-Abstraction\Poliformizm-Abstraction\Poliformizm-Abstraction\obj\Debug\net6.0\Poliformizm-Abstraction.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\Polimorfizm-Abstraction\Poliformizm-Abstraction\Poliformizm-Abstraction\obj\Debug\net6.0\Poliformizm-Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\Polimorfizm-Abstraction\Poliformizm-Abstraction\Poliformizm-Abstraction\obj\Debug\net6.0\Poliformizm-Abstraction.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\Polimorfizm-Abstraction\Poliformizm-Abstraction\Poliformizm-Abstraction\obj\Debug\net6.0\Poliformizm-Abstraction.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\Polimorfizm-Abstraction\Poliformizm-Abstraction\Poliformizm-Abstraction\obj\Debug\net6.0\Poliformizm-Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\Polimorfizm-Abstraction\Poliformizm-Abstraction\Poliformizm-Abstraction\obj\Debug\net6.0\Poliformizm-Abstraction.dll
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\Polimorfizm-Abstraction\Poliformizm-Abstraction\Poliformizm-Abstraction\obj\Debug\net6.0\refint\Poliformizm-Abstraction.dll
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\Polimorfizm-Abstraction\Poliformizm-Abstraction\Poliformizm-Abstraction\obj\Debug\net6.0\Poliformizm-Abstraction.pdb
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\Polimorfizm-Abstraction\Poliformizm-Abstraction\Poliformizm-Abstraction\obj\Debug\net6.0\Poliformizm-Abstraction.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\Polimorfizm-Abstraction\Poliformizm-Abstraction\Poliformizm-Abstraction\obj\Debug\net6.0\ref\Poliformizm-Abstraction.dll

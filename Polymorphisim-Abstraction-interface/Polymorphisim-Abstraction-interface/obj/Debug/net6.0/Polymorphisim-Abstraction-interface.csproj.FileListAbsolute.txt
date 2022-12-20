@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\Polymorphisim-Abstraction-interface\Polymorphisim-Abstraction-interface\bin\Debug\net6.0\Polymorphisim-Abstraction-interface.exe
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\Polymorphisim-Abstraction-interface\Polymorphisim-Abstraction-interface\bin\Debug\net6.0\Polymorphisim-Abstraction-interface.deps.json
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\Polymorphisim-Abstraction-interface\Polymorphisim-Abstraction-interface\bin\Debug\net6.0\Polymorphisim-Abstraction-interface.runtimeconfig.json
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\Polymorphisim-Abstraction-interface\Polymorphisim-Abstraction-interface\bin\Debug\net6.0\Polymorphisim-Abstraction-interface.dll
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\Polymorphisim-Abstraction-interface\Polymorphisim-Abstraction-interface\bin\Debug\net6.0\Polymorphisim-Abstraction-interface.pdb
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\Polymorphisim-Abstraction-interface\Polymorphisim-Abstraction-interface\obj\Debug\net6.0\Polymorphisim-Abstraction-interface.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\Polymorphisim-Abstraction-interface\Polymorphisim-Abstraction-interface\obj\Debug\net6.0\Polymorphisim-Abstraction-interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\Polymorphisim-Abstraction-interface\Polymorphisim-Abstraction-interface\obj\Debug\net6.0\Polymorphisim-Abstraction-interface.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\Polymorphisim-Abstraction-interface\Polymorphisim-Abstraction-interface\obj\Debug\net6.0\Polymorphisim-Abstraction-interface.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\Polymorphisim-Abstraction-interface\Polymorphisim-Abstraction-interface\obj\Debug\net6.0\Polymorphisim-Abstraction-interface.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\Polymorphisim-Abstraction-interface\Polymorphisim-Abstraction-interface\obj\Debug\net6.0\Polymorphisim-Abstraction-interface.dll
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\Polymorphisim-Abstraction-interface\Polymorphisim-Abstraction-interface\obj\Debug\net6.0\refint\Polymorphisim-Abstraction-interface.dll
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\Polymorphisim-Abstraction-interface\Polymorphisim-Abstraction-interface\obj\Debug\net6.0\Polymorphisim-Abstraction-interface.pdb
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\Polymorphisim-Abstraction-interface\Polymorphisim-Abstraction-interface\obj\Debug\net6.0\Polymorphisim-Abstraction-interface.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\Polymorphisim-Abstraction-interface\Polymorphisim-Abstraction-interface\obj\Debug\net6.0\ref\Polymorphisim-Abstraction-interface.dll
